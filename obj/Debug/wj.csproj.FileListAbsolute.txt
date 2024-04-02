@@ -1,0 +1,10 @@
+C:\Users\AI02\source\repos\DAN\wj\obj\Debug\wj.csproj.AssemblyReference.cache
+C:\Users\AI02\source\repos\DAN\wj\obj\Debug\wj.Form1.resources
+C:\Users\AI02\source\repos\DAN\wj\obj\Debug\wj.Properties.Resources.resources
+C:\Users\AI02\source\repos\DAN\wj\obj\Debug\wj.csproj.GenerateResource.cache
+C:\Users\AI02\source\repos\DAN\wj\obj\Debug\wj.csproj.CoreCompileInputs.cache
+C:\Users\AI02\source\repos\DAN\wj\bin\Debug\wj.exe.config
+C:\Users\AI02\source\repos\DAN\wj\bin\Debug\wj.exe
+C:\Users\AI02\source\repos\DAN\wj\bin\Debug\wj.pdb
+C:\Users\AI02\source\repos\DAN\wj\obj\Debug\wj.exe
+C:\Users\AI02\source\repos\DAN\wj\obj\Debug\wj.pdb
